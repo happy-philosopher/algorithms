@@ -1,0 +1,8 @@
+.idea/
+venv/
+.venv/
+img/
+test*.py
+test*.txt
+main_*.py
+*.json
